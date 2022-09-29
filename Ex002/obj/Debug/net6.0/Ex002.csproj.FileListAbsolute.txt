@@ -1,0 +1,15 @@
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+D:\GB\Seminars\Five\Ex002\bin\Debug\net6.0\Ex002.exe
+D:\GB\Seminars\Five\Ex002\bin\Debug\net6.0\Ex002.deps.json
+D:\GB\Seminars\Five\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+D:\GB\Seminars\Five\Ex002\bin\Debug\net6.0\Ex002.dll
+D:\GB\Seminars\Five\Ex002\bin\Debug\net6.0\Ex002.pdb
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.dll
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.pdb
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+D:\GB\Seminars\Five\Ex002\obj\Debug\net6.0\ref\Ex002.dll
